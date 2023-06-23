@@ -1,4 +1,6 @@
-# Brain Tumour Detection using Deep Learning.
+# Brain Tumour Detection using Deep Learning and Reactjs for frontend.
+
+I used CNN algorithm for image processing of MRI images to detect if brain tumour is present or not and used Reactjs to for creating the frontend for the deployment of the created model.
 
 # Deployed Model homepage
 
